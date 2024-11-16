@@ -23,8 +23,6 @@ My name is Kunal Sharma, a undergraduate student at Indian Institute of Technolo
 
 🎞️ I am also interested in video games and photography
 
-if you like what i do, maybe consider buying me a coffee/tea 👉👈
-
 ## GitHub Stats
 
 <!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/?username=umenzi&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()
