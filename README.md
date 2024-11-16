@@ -6,10 +6,9 @@
   </a>
 </h1>
 
-[![Website](https://img.shields.io/badge/Website-jpaefra.com-informational?style=flat-square&color=00ADB5&logo=about.me&logoColor=white)](http://jpaefra.com)
-[![Blog](https://img.shields.io/badge/Blog-jpaefra.com/blog-informational?style=flat-square&color=FAEEE7&logo=krita&logoColor=white)](http://jpaefra.com/blog)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-paez-franco/)
-[![Gmail](https://img.shields.io/badge/Gmail-jpaefra@gmail.com-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white)](mailto:jpaefra@gmail.com?subject=Hey!)
+[![Website](https://img.shields.io/badge/Website-jpaefra.com-informational?style=flat-square&color=00ADB5&logo=about.me&logoColor=white)](https://kunalsharma-iitjmu.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ks-iitjmu/)
+[![Gmail](https://img.shields.io/badge/Gmail-jpaefra@gmail.com-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white)](mailto:2023uma0221@iitjammu.ac.in?subject=Hey!)
 
 <br>
 
