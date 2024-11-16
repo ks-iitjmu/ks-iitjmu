@@ -14,19 +14,16 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px">
 
-My name is Jaier Paez, a graduate student at Imperial College 🇬🇧 pursuing a M.Sc. in Computer Science, specialized in Artificial Intelligence and Machine Learning.
+My name is Kunal Sharma, a undergraduate student at Indian Institute of Technology Jammu pursuing a B.tech in Mathematics and Computing, specialized in Artificial Intelligence and Machine Learning.
 
-Previously, I obtained my B.Sc. in Computer Science and Engineering from TU Delft 🇳🇱, where I joined the challenging Next Generation Robotics Honours Program, a two-year research program where ten carefully selected B.Sc. students work on research projects at the TU Delft Robotics Institute.
 
-💻 My interests lie within the field of AI, Machine Learning & Robotics
+💻 My interests lie within the field of AI, Machine Learning & Web Development
 
-🎶 Outside my academic and professional pursuits, I am passionate about music, having played the violin with multiple orchestras worldwide
+🎶 Outside my academic and professional pursuits, I am passionate about music, and pool.
 
-🎞️ I am also interested in video games and cinematography
+🎞️ I am also interested in video games and photography
 
 if you like what i do, maybe consider buying me a coffee/tea 👉👈
-
-<a href="https://buymeacoffee.com/jpaefra" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ## GitHub Stats
 
