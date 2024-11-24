@@ -14,7 +14,7 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px">
 
-My name is Kunal Sharma, a undergraduate student at Indian Institute of Technology Jammu pursuing a B.tech in Mathematics and Computing, specialized in Artificial Intelligence and Machine Learning.
+My name is Kunal Sharma, An undergraduate student at Indian Institute of Technology Jammu pursuing a B.Tech in Mathematics and Computing, specialized in Artificial Intelligence and Machine Learning.
 
 
 💻 My interests lie within the field of AI, Machine Learning & Web Development
