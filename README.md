@@ -27,6 +27,6 @@ My name is Kunal Sharma, An undergraduate student at Indian Institute of Technol
 
 <!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/?username=umenzi&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()
  -->
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalsharma-iitjmu&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()
+<p align = "center">[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalsharma-iitjmu&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)]()</p>
 
 <a href="https://github.com/kunalsharma-iitjmu?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
