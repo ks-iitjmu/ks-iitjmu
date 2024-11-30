@@ -16,8 +16,6 @@
 
 My name is Kunal Sharma, An undergraduate student at Indian Institute of Technology Jammu pursuing a B.Tech in Mathematics and Computing, specialized in Artificial Intelligence and Machine Learning.
 
-![Profile views](https://gpvc.arturio.dev/[kunalsharma-iitjmu])
-
 💻 My interests lie within the field of AI, Machine Learning & Web Development
 
 🎶 Outside my academic and professional pursuits, I am passionate about music, and pool.
