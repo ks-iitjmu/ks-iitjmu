@@ -14,6 +14,7 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px">
 
+<h2 ><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="35" height="40" /> About me : </h2>
 My name is Kunal Sharma, An undergraduate student at Indian Institute of Technology Jammu pursuing a B.Tech in Mathematics and Computing, specialized in Artificial Intelligence and Machine Learning.
 
 💻 My interests lie within the field of AI, Machine Learning & Web Development
