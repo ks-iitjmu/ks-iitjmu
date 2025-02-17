@@ -22,6 +22,28 @@ My name is Kunal Sharma, An undergraduate student at Indian Institute of Technol
 
 🎞️ I am also interested in video games and photography
 
+<table align="center">
+<tr>
+  <td><strong>Programming Languages</strong></td>
+  <td><img height=40 src="https://skillicons.dev/icons?i=cpp,python&theme=dark"></td>
+</tr>
+
+<tr>
+  <td><strong>Frontend Development</strong></td>
+  <td><img height=40 src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark"></td>
+</tr>
+
+<tr>
+  <td><strong>Backend & Database</strong></td>
+  <td><img height=40 src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb&theme=dark"></td>
+</tr>
+
+<tr>
+  <td><strong>Developer Tools</strong></td>
+  <td><img height=40 src="https://skillicons.dev/icons?i=github,vscode,postman&theme=dark"></td>
+</tr>
+</table>
+
 ## GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ks-iitjmu&theme=github_dark" />
