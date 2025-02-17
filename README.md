@@ -25,7 +25,7 @@ My name is Kunal Sharma, An undergraduate student at Indian Institute of Technol
 <table align="center">
 <tr>
   <td><strong>Programming Languages</strong></td>
-  <td><img height=40 src="https://skillicons.dev/icons?i=cpp,python&theme=dark"></td>
+  <td><img height=40 src="https://skillicons.dev/icons?i=cpp,python,ts&theme=dark"></td>
 </tr>
 
 <tr>
