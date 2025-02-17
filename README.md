@@ -35,7 +35,7 @@ My name is Kunal Sharma, An undergraduate student at Indian Institute of Technol
 
 <tr>
   <td><strong>Backend & Database</strong></td>
-  <td><img height=40 src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb&theme=dark"></td>
+  <td><img height=40 src="https://skillicons.dev/icons?i=nodejs,expressjs,mongodb&theme=dark"></td>
 </tr>
 
 <tr>
