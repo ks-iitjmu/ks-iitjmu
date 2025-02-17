@@ -40,7 +40,7 @@ My name is Kunal Sharma, An undergraduate student at Indian Institute of Technol
 
 <tr>
   <td><strong>Developer Tools</strong></td>
-  <td><img height=40 src="https://skillicons.dev/icons?i=github,vscode,pycharm,cursor,git&theme=dark"></td>
+  <td><img height=40 src="https://skillicons.dev/icons?i=github,vscode,pycharm,git,codepen&theme=dark"></td>
 </tr>
 </table>
 
