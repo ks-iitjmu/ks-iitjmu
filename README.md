@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-[![Website](https://img.shields.io/badge/Website-kunalsharma.com-informational?style=flat-square&color=00ADB5&logo=about.me&logoColor=white)](https://kunalsharma-iitjmu.github.io/)
+[![Website](https://img.shields.io/badge/Website-kunalsharma.com-informational?style=flat-square&color=00ADB5&logo=about.me&logoColor=white)](https://kunalsharma.tech/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-KunalSharma-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ks-iitjmu/)
 [![Gmail](https://img.shields.io/badge/Gmail-KunalSharma-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white)](mailto:2023uma0221@iitjammu.ac.in?subject=Hey!)
 
