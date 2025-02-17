@@ -30,7 +30,7 @@ My name is Kunal Sharma, An undergraduate student at Indian Institute of Technol
 
 <tr>
   <td><strong>Frontend Development</strong></td>
-  <td><img height=40 src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark"></td>
+  <td><img height=40 src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind&theme=dark"></td>
 </tr>
 
 <tr>
