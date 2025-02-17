@@ -47,7 +47,8 @@ My name is Kunal Sharma, An undergraduate student at Indian Institute of Technol
 </tr>
 </table>
 
-## GitHub Stats
+<h1 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Detective%20Medium%20Skin%20Tone.png" alt="Man Detective Medium Skin Tone" width="35" height="40" /> GitHub Stats </h1>
+
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ks-iitjmu&theme=github_dark" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ks-iitjmu&theme=github_dark"  />
