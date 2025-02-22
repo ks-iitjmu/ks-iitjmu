@@ -58,9 +58,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ks-iitjmu&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ks-iitjmu&layout=compact&theme=radical"/>
 </div>
-
-<p align="center" style="margin:2rem;">
-  <a href="https://github.com/ks-iitjmu?tab=repositories">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
-  </a>
-</p>
