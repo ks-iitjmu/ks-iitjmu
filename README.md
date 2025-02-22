@@ -55,6 +55,4 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ks-iitjmu&theme=github_dark"  />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ks-iitjmu&theme=github_dark"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ks-iitjmu&theme=github_dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ks-iitjmu&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ks-iitjmu&layout=compact&theme=radical"/>
 </div>
