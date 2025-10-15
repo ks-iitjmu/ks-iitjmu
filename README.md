@@ -56,3 +56,9 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ks-iitjmu&theme=github_dark"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ks-iitjmu&theme=github_dark" />
 </div>
+
+ <h3>📊 GitHub Activity:</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ks-iitjmu&theme=tokyo-night&hide_border=true" />
+</p>
