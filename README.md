@@ -10,7 +10,7 @@
 <br/>
 
 <!-- ====================== LIVE BADGES ====================== -->
-<img src="[https://komarev.com/ghpvc/?username=ks-iitjmu&label=PROFILE+VIEWS&color=22d3ee&style=for-the-badge](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkunalsharma-iitjmu&countColor=%23263759&style=default)" alt="profile views"/>
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkunalsharma-iitjmu&countColor=%23263759&style=default" alt="profile views"/>
 <a href="https://github.com/ks-iitjmu?tab=followers">
   <img src="https://img.shields.io/github/followers/ks-iitjmu?label=FOLLOWERS&style=for-the-badge&color=22d3ee&labelColor=0F2027&logo=github" alt="followers"/>
 </a>
