@@ -10,14 +10,9 @@
 <br/>
 
 <!-- ====================== LIVE BADGES ====================== -->
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkunalsharma-iitjmu&color=22d3ee&labelColor=0F2027&style=for-the-badge&logo=github" alt="profile views"/>
-<a href="https://github.com/ks-iitjmu?tab=followers">
-  <img src="https://img.shields.io/github/followers/ks-iitjmu?label=FOLLOWERS&style=for-the-badge&color=22d3ee&labelColor=0F2027&logo=github" alt="followers"/>
-</a>
-<a href="https://github.com/ks-iitjmu?tab=repositories&sort=stargazers">
-  <img src="https://img.shields.io/github/stars/ks-iitjmu?label=TOTAL+STARS&style=for-the-badge&color=22d3ee&labelColor=0F2027&logo=github" alt="stars"/>
-</a>
-
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkunalsharma-iitjmu&label=PROFILE%20VIEWS&labelColor=%230F2027&countColor=%2322d3ee&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/ks-iitjmu?label=FOLLOWERS&style=for-the-badge&color=22d3ee&labelColor=0F2027&logo=github" alt="followers"/>
+<img src="https://img.shields.io/github/stars/ks-iitjmu?label=TOTAL+STARS&style=for-the-badge&color=22d3ee&labelColor=0F2027&logo=github" alt="stars"/>
 <br/><br/>
 
 <!-- ====================== QUICK LINKS ====================== -->
