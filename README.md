@@ -203,38 +203,6 @@ print(me.say_hi())
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
-
-<!-- ====================== PROJECTS ====================== -->
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> &nbsp;Featured Work
-
-<!-- EDIT: swap REPO_NAME_1..4 for your actual repository names.
-     These cards auto-populate with the repo's real title, description and stars. -->
-
-<div align="center">
-
-<a href="https://github.com/ks-iitjmu/JoSAA-Counselling-Website">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ks-iitjmu&repo=REPO_NAME_1&hide_border=true&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9&bg_color=0d1117" alt="Project 1"/>
-</a>
-<a href="https://github.com/ks-iitjmu/Svaran-Chatbot-IIT-Jammu">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ks-iitjmu&repo=REPO_NAME_2&hide_border=true&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9&bg_color=0d1117" alt="Project 2"/>
-</a>
-<a href="https://github.com/ks-iitjmu/whisperNode">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ks-iitjmu&repo=REPO_NAME_3&hide_border=true&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9&bg_color=0d1117" alt="Project 3"/>
-</a>
-<a href="https://github.com/ks-iitjmu/Kalka-Hosiery">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ks-iitjmu&repo=REPO_NAME_4&hide_border=true&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9&bg_color=0d1117" alt="Project 4"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/ks-iitjmu?tab=repositories">
-  <img src="https://img.shields.io/badge/Browse%20all%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="all repos"/>
-</a>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
-
 <!-- ====================== WHAT I'M BUILDING ====================== -->
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="28"> &nbsp;Current Focus
 
