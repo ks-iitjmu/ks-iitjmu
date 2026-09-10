@@ -1,4 +1,3 @@
-<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkunalsharma-iitjmu&countColor=%23263759&style=default" alt="visitor_badge">
 <!-- ====================== ANIMATED HEADER ====================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Kunal%20Sharma&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Problem%20Solver&descAlignY=54&descSize=18" alt="header"/>
 
@@ -11,7 +10,7 @@
 <br/>
 
 <!-- ====================== LIVE BADGES ====================== -->
-<img src="https://komarev.com/ghpvc/?username=ks-iitjmu&label=PROFILE+VIEWS&color=22d3ee&style=for-the-badge" alt="profile views"/>
+<img src="[https://komarev.com/ghpvc/?username=ks-iitjmu&label=PROFILE+VIEWS&color=22d3ee&style=for-the-badge](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkunalsharma-iitjmu&countColor=%23263759&style=default)" alt="profile views"/>
 <a href="https://github.com/ks-iitjmu?tab=followers">
   <img src="https://img.shields.io/github/followers/ks-iitjmu?label=FOLLOWERS&style=for-the-badge&color=22d3ee&labelColor=0F2027&logo=github" alt="followers"/>
 </a>
