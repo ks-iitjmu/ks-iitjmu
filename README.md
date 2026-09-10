@@ -300,8 +300,6 @@ I'm always up for a conversation about **machine learning, system design, or a h
 
 ### ⭐ If something here was useful, a star costs nothing and means a lot.
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" alt="footer"/>
-
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff&fontAlignY=68" alt="footer wave"/>
