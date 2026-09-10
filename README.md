@@ -72,7 +72,7 @@ print(me.say_hi())
 </td>
 <td width="45%" valign="top">
 
-<img src="https://raw.githubusercontent.com/gist/nasserdev/e0f2e4bb1c1ba7c1a3cec89f9e10ed8c/raw/coder.gif" width="100%" alt="coding gif"/>
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%" alt="coding gif"/>
 
 </td>
 </tr>
