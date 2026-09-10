@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="https://github.com/ks-iitjmu">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=720&lines=Building+intelligent+systems%2C+one+commit+at+a+time.;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Scalable+Backends+%7C+Microservices+%7C+Clean+APIs;Turning+coffee+and+curiosity+into+production+code." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=820&lines=Building+intelligent+systems%2C+one+commit+at+a+time.;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Scalable+Backends+%7C+Microservices+%7C+Clean+APIs;Turning+coffee+and+curiosity+into+production+code." alt="Typing SVG" />
 </a>
 
 <br/>
