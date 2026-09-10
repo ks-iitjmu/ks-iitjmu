@@ -212,16 +212,16 @@ print(me.say_hi())
 
 <div align="center">
 
-<a href="https://github.com/ks-iitjmu/REPO_NAME_1">
+<a href="https://github.com/ks-iitjmu/JoSAA-Counselling-Website">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ks-iitjmu&repo=REPO_NAME_1&hide_border=true&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9&bg_color=0d1117" alt="Project 1"/>
 </a>
-<a href="https://github.com/ks-iitjmu/REPO_NAME_2">
+<a href="https://github.com/ks-iitjmu/Svaran-Chatbot-IIT-Jammu">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ks-iitjmu&repo=REPO_NAME_2&hide_border=true&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9&bg_color=0d1117" alt="Project 2"/>
 </a>
-<a href="https://github.com/ks-iitjmu/REPO_NAME_3">
+<a href="https://github.com/ks-iitjmu/whisperNode">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ks-iitjmu&repo=REPO_NAME_3&hide_border=true&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9&bg_color=0d1117" alt="Project 3"/>
 </a>
-<a href="https://github.com/ks-iitjmu/REPO_NAME_4">
+<a href="https://github.com/ks-iitjmu/Kalka-Hosiery">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ks-iitjmu&repo=REPO_NAME_4&hide_border=true&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9&bg_color=0d1117" alt="Project 4"/>
 </a>
 
