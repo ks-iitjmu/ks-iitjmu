@@ -1,13 +1,4 @@
 <img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkunalsharma-iitjmu&countColor=%23263759&style=default" alt="visitor_badge">
-
-<!--
-=========================================================================
-  GITHUB PROFILE README  ·  ks-iitjmu
-  Repo name must be exactly:  ks-iitjmu/ks-iitjmu   (public, with README)
-  Search for "EDIT:" to find the few spots to personalise.
-=========================================================================
--->
-
 <!-- ====================== ANIMATED HEADER ====================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Kunal%20Sharma&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Problem%20Solver&descAlignY=54&descSize=18" alt="header"/>
 
@@ -31,12 +22,10 @@
 <br/><br/>
 
 <!-- ====================== QUICK LINKS ====================== -->
-<!-- EDIT: replace the # with your real profile URLs -->
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="https://ksiitjmu-links.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/></a>
+<a href="https://www.linkedin.com/in/ks-iitjmu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="https://leetcode.com/u/kunalsharma02/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="resume"/></a>
+<a href="mailto:2023uma0221@iitjammu.ac.in"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 
 </div>
 
