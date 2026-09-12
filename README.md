@@ -53,31 +53,6 @@ class KunalSharma:
 me = KunalSharma()
 print(me.say_hi())
 ```
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-**A little more context**
-
-- 🎓 &nbsp;Engineering student at **IIT Jammu**, living at the intersection of **AI research** and **shipped product**.
-- 🧠 &nbsp;I train models that see and read — **Computer Vision** and **NLP** — then squeeze them down with **model optimization** until they're fast enough to actually deploy.
-- ⚙️ &nbsp;I build the whole thing: **React/Next.js** on the front, **FastAPI/Node** in the middle, **Postgres/Mongo/Redis** underneath, all wrapped in **Docker** and shipped through **CI/CD**.
-- 🧩 &nbsp;Competitive programmer in **C++** — [**@kunalsharma02**](https://leetcode.com/u/kunalsharma02/) on LeetCode. DSA isn't a checkbox, it's how I think about problems.
-- 🌱 &nbsp;Currently deep in **distributed training** and **LLM inference optimization**.
-- 💬 &nbsp;Ask me about **PyTorch training loops, microservice design, or why your Docker image is 4GB**.
-- 🤝 &nbsp;Open to **internships, research collabs, and open-source contributions**.
-- ⚡ &nbsp;Fun fact: I'd rather spend two hours automating a ten-minute task — and I regret nothing.
-
-</td>
-<td width="45%" valign="top">
-
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%" alt="coding gif"/>
-
-</td>
-</tr>
-</table>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
 
 <!-- ====================== TECH STACK ====================== -->
