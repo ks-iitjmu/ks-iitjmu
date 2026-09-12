@@ -209,24 +209,15 @@ I'm always up for a conversation about **machine learning, system design, or a h
 <br/>
 
 <!-- EDIT: replace the # with your real links -->
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
+<a href="https://www.linkedin.com/in/ks-iitjmu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="mailto:2023uma0221@iitjammu.ac.in"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
 <a href="https://github.com/ks-iitjmu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
 <a href="https://leetcode.com/u/kunalsharma02/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode"/></a>
-<a href="#"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-22d3ee?style=for-the-badge&logo=vercel&logoColor=black" alt="portfolio"/></a>
+<a href="https://ksiitjmu-links.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-22d3ee?style=for-the-badge&logo=vercel&logoColor=black" alt="portfolio"/></a>
 
 <br/><br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border=true" alt="quote"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### ⭐ If something here was useful, a star costs nothing and means a lot.
 
 </div>
 
