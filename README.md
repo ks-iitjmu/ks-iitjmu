@@ -43,7 +43,7 @@ class KunalSharma:
             "backend":  ["FastAPI", "Node.js", "Django", "Express"],
             "infra":    ["Docker", "GitHub Actions", "Linux", "Vercel"],
         }
-        self.currently_learning = "Distributed training & LLM inference optimization"
+        self.currently_learning = "Distributed training & LLM inference optimization & App Development"
         self.open_to            = ["SDE / ML Internships", "Open Source", "Collaborations"]
 
     def say_hi(self) -> str:
