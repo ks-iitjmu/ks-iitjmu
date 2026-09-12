@@ -159,24 +159,8 @@ print(me.say_hi())
 <!-- ====================== GITHUB STATS ====================== -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;GitHub Analytics
 
-<div align="center">
-
-<img src="https://img.shields.io/github/followers/ks-iitjmu?label=Followers&style=for-the-badge&color=22d3ee&labelColor=0F2027&logo=github&logoColor=white" alt="followers"/>
-<img src="https://img.shields.io/github/stars/ks-iitjmu?label=Stars&style=for-the-badge&color=22d3ee&labelColor=0F2027&logo=github&logoColor=white" alt="stars"/>
-<img src="https://img.shields.io/badge/Total%20Contributions-737-22d3ee?style=for-the-badge&labelColor=0F2027&logo=git&logoColor=white" alt="contributions"/>
-<img src="https://img.shields.io/badge/Coding%20Since-Feb%202024-22d3ee?style=for-the-badge&labelColor=0F2027&logo=github&logoColor=white" alt="since"/>
-
-<br/><br/>
-
 <img width="92%" src="https://streak-stats.demolab.com?user=ks-iitjmu&hide_border=true&background=0d1117&stroke=22d3ee&ring=22d3ee&fire=f97316&currStreakLabel=22d3ee&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub Streak"/>
 
-<br/><br/>
-
-**Contribution Graph**
-
-<img width="92%" src="https://ghchart.rshah.org/22d3ee/ks-iitjmu" alt="Contribution Chart"/>
-
-</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
 
