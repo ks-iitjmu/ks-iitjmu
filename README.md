@@ -182,23 +182,6 @@ print(me.say_hi())
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
-<!-- ====================== WHAT I'M BUILDING ====================== -->
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="28"> &nbsp;Current Focus
-
-<div align="center">
-
-| 🎯 &nbsp;Area | ⚡ &nbsp;What I'm doing | 📈 &nbsp;Status |
-|:---|:---|:---:|
-| **Deep Learning** | Training & fine-tuning vision + language models in PyTorch | `In Progress` |
-| **Model Optimization** | Quantization, pruning and ONNX export for edge inference | `In Progress` |
-| **Distributed Training** | Multi-GPU pipelines, gradient accumulation, mixed precision | `Learning` |
-| **Scalable Backends** | Event-driven microservices with FastAPI, Redis & Docker | `Shipping` |
-| **DSA in C++** | Daily LeetCode grind — graphs, DP, and greedy patterns | `Daily` |
-| **Open Source** | Looking for meaningful ML / dev-tooling issues to take on | `Open` |
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
 
 <!-- ====================== CONTRIBUTION SNAKE ====================== -->
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"> &nbsp;Watch My Contributions Get Eaten
@@ -212,8 +195,6 @@ print(me.say_hi())
 </picture>
 
 </div>
-
-> **Note to self:** this only renders once you add `.github/workflows/snake.yml` and run the action once. Setup steps are in `SETUP.md`.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
 
