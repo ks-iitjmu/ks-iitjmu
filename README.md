@@ -161,8 +161,10 @@ print(me.say_hi())
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ks-iitjmu&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="GitHub Stats"/>
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ks-iitjmu&layout=compact&langs_count=10&hide_border=true&title_color=22d3ee&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
+<img src="https://img.shields.io/github/followers/ks-iitjmu?label=Followers&style=for-the-badge&color=22d3ee&labelColor=0F2027&logo=github&logoColor=white" alt="followers"/>
+<img src="https://img.shields.io/github/stars/ks-iitjmu?label=Stars&style=for-the-badge&color=22d3ee&labelColor=0F2027&logo=github&logoColor=white" alt="stars"/>
+<img src="https://img.shields.io/badge/Total%20Contributions-737-22d3ee?style=for-the-badge&labelColor=0F2027&logo=git&logoColor=white" alt="contributions"/>
+<img src="https://img.shields.io/badge/Coding%20Since-Feb%202024-22d3ee?style=for-the-badge&labelColor=0F2027&logo=github&logoColor=white" alt="since"/>
 
 <br/><br/>
 
@@ -170,7 +172,9 @@ print(me.say_hi())
 
 <br/><br/>
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=ks-iitjmu&bg_color=0d1117&color=22d3ee&line=22d3ee&point=ffffff&area=true&area_color=22d3ee&hide_border=true&custom_title=Contribution%20Activity%20—%20Last%2031%20Days" alt="Activity Graph"/>
+**Contribution Graph**
+
+<img width="92%" src="https://ghchart.rshah.org/22d3ee/ks-iitjmu" alt="Contribution Chart"/>
 
 </div>
 
