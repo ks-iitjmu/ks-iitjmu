@@ -176,15 +176,6 @@ print(me.say_hi())
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
 
-<!-- ====================== TROPHIES ====================== -->
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> &nbsp;Trophy Cabinet
-
-<div align="center">
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=ks-iitjmu&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies"/>
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
-
 <!-- ====================== LEETCODE ====================== -->
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="28"> &nbsp;Competitive Programming
 
